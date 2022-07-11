@@ -11,7 +11,7 @@ As tecnologias ultilizadas nesse projeto foram:
 - JAVA SCRIPT
 
 # Ajuste e Melhorias
-melhorias que pretendo e que foram adicionadas no projeto:
+Melhorias que pretendo e que foram adicionadas no projeto:
 
  ✔ - Botao para jogar novamente.
  
