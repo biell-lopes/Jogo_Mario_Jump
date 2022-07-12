@@ -2,6 +2,8 @@
 Jogo feito em HTML, CSS e JavaScript.
 
 ![Mario](https://github.com/biell-lopes/Jogo_Mario_Jump/blob/main/images/icons8-super-mario-bubbles-96.png)
+
+
 https://biell-lopes.github.io/Jogo_Mario_Jump/
 # 🎯 Objetivo
 Projeto desenvolvido atraves do canal do <a href="https://www.youtube.com/c/ManualdoDev">Manual do dev</a>, onde o objetivo do jogo e evitar os obstaculos pelo caminho.
