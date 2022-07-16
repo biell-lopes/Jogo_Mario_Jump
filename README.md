@@ -22,3 +22,4 @@ Melhorias que pretendo e que foram adicionadas no projeto:
 ❌ - Caixa escrito "Game Ober".
 
 ❌ - Som no jogo.
+
