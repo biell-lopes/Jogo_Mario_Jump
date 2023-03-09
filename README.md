@@ -19,7 +19,7 @@ Melhorias que pretendo e que foram adicionadas no projeto:
 
  ✔ - Botao para jogar novamente.
  
-❌ - Caixa escrito "Game Ober".
+❌ - Caixa escrito "Game Over".
 
 ❌ - Som no jogo.
 
